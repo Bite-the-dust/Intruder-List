@@ -1,0 +1,16 @@
+KILLERQUEEN
+'"><KILLERQUEEN>
+'>"><script>alert(document.cookie)</script>
+Set-Cookie:xxxxtest=xxxxtest
+127.0.0.1
+https://www.example.com/
+www.example.com
+extensions
+ORDER BY
+SQL
+&lt;
+&gt;
+&amp;
+&quot;
+&#039;
+4096
